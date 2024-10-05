@@ -11,8 +11,8 @@ This guide will help you manually verify game outcomes on [exodiarewards.com](ht
 
 Clone the repository:  
 ```sh
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
+git clone https://github.com/secretexodia/provably-fair.git
+cd provably-fair
 ```
 
 ## Verify case outcomes
